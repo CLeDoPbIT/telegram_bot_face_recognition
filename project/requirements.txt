@@ -1,0 +1,13 @@
+python-telegram-bot
+tensorflow
+apiai
+numpy
+opencv-python
+regex
+six
+pillow
+imutils
+imgaug
+scipy
+skimage
+sklearn
