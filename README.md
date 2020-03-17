@@ -10,4 +10,4 @@
 
 Authors CLeDoPbIT, Northengard
 
-![Basic State Diagram]('https://github.com/Northengard/telegram_bot_face_recognition/blob/master/figures/Basic_State_Diagram.jpg')
+![Basic State Diagram](./figures/Basic_State_Diagram.jpg)
