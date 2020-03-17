@@ -6,7 +6,7 @@
    1. if the environment is ok, it shows model initialisation message. Bot is ready to use
    2. Go to the Telegram, find user Comparator3000bot. If there wasn't any mistake bot answers you.
 
-**Authors CLeDoPbIT, Northengard**
+**Authors [CLeDoPbIT](https://github.com/CLeDoPbIT), [Northengard](https://github.com/Northengard), [hessusH](https://github.com/hessusH)**
 
 ### State diagram
 ![Basic State Diagram](./figures/Basic_State_Diagram.jpg)
